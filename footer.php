@@ -21,7 +21,7 @@
 				<div class="container text-center">
 					<div class="onerow">
 						<div class="twoCol footer-logo">
-							<img src="https://www.binbill.com/static/images/logo-492817-e-5.svg" alt="footerlogo">
+							<img src="https://www.binbill.com/static/images/logo-colors.png" alt="footerlogo">
 						</div><div class="oneCol"></div><div class="threeCol layer">
 							<p class="title">Contact</p>
 							<p><a href="mailto:support@binbill.com">support@binbill.com</a></p>
@@ -84,7 +84,7 @@
 							<button id="openMessagePopMobile" class="ui item auth-item">Send Message</button>
 						</div>
 						<div class="twoCol footer-logo">
-							<img src="https://www.binbill.com/static/images/logo-492817-e-5.svg" alt="footerlogo">
+							<img src="https://www.binbill.com/static/images/logo-colors.png" alt="footerlogo">
 						</div>
 						<div class="twoCol footer-nav">
 							<ul>
